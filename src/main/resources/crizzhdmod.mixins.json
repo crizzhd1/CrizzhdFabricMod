@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.crizzhd.mod.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+
+		"ChickenGoseBoomMixin",
+		"ArrowThing",
+		"CreeperEnityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    " R "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "crizzhdmod:model",
+    "count": 1
+  }
+}
+

@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "crizzhdmod:block/crizzblock"
+		
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 15, 16],
+			"faces": {
+				"north": {"uv": [5.34639, 6.52142, 9.55936, 9.99021], "texture": "#0"},
+				"east": {"uv": [5.34639, 6.38433, 9.59853, 10.14688], "texture": "#0"},
+				"south": {"uv": [5.38556, 6.59976, 9.67687, 10.08813], "texture": "#0"},
+				"west": {"uv": [5.30722, 6.38433, 9.59853, 10.12729], "texture": "#0"},
+				"up": {"uv": [5.30722, 6.4235, 9.59853, 10.26438], "texture": "#0"},
+				"down": {"uv": [5.34639, 6.52142, 9.57895, 10.12729], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.5, 6.75, 0]
+		}
+	}
+}

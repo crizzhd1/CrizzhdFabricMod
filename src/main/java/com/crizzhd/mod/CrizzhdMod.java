@@ -7,8 +7,6 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
-
 public class CrizzhdMod implements ModInitializer {
 	public  static final String  ModId = "crizzhdmod";
 	public static final Logger LOGGER = LoggerFactory.getLogger("crizzhdmod");
@@ -22,6 +20,5 @@ public class CrizzhdMod implements ModInitializer {
 		ModDimensions.register();
 		ModBlocks.registerModBlocks();
 		//ModEntityGeneration.addSpawns();
-
 	}
 }

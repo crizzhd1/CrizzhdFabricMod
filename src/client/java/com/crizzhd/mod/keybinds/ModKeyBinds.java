@@ -10,13 +10,12 @@ public class ModKeyBinds {
     public String Key_Category = "key.crizzhdmod";
     public String test_Key_Name = "key.crizzhdmod.test";
     public KeyBinding test;
+
     public void registerKeyInputs(){
         ClientTickEvents.END_CLIENT_TICK.register(client -> {
-
             if(test.wasPressed()) {
                 client.player.sendMessage(Text.of("MY ASS IS NICE COME LOOK"),true);
             }
-
         });
     }
     public void register(){

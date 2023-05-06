@@ -7,5 +7,3 @@ for these you only need The mod on the server and not the client
 1. creepers move speed is random between 0.1 and 5
 2. when creepers blow up they give a random status effect with a random time of 5 sec to 20 sec
 3. chickens blow up on death
-
-

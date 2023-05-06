@@ -4,6 +4,8 @@ This is a minecraft fabric mod that im working on I did not know what I wanted s
 What the mod has so far:
 Base Game for this if you have a server with the mod you do not need the mod on the client
 
-1. creepers move speed is random between 0.5 and 5
-2. when creepers blow up they drop a random status effect but it kind of pushes you away trying to find a better way of doing it or make the effect spread more but have not found out how to
+1. creepers move speed is random between 0.1 and 5
+2. when creepers blow up they give a random status effect with a random time of 5 sec to 20 sec
 3. chickens blow up on death
+
+
